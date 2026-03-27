@@ -1,0 +1,14 @@
+TFVC Workspace Manager
+Copyright 2026 Gonzalo Berterame
+
+This product was originally created by Gonzalo Berterame.
+
+TFVC Workspace Manager is a tool intended to simplify the operational
+management of TFVC workspaces in Azure DevOps, including workspace
+exploration, pending changes inspection, lock inspection, and controlled
+undo/unlock operations with logging and auditing support.
+
+Licensed under the Apache License, Version 2.0.
+You may not use this file except in compliance with the License.
+A copy of the License should be provided in the LICENSE file distributed
+with this project.
